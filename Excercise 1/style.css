@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color: rgba(211, 120, 140, 0.705);
+    font-size: 400%;
+    padding: 40px;
+}
+
+.img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    padding: 25px;
+    margin-left: 180px;
+    margin-bottom: 1px;
+}
